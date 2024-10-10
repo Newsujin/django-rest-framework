@@ -1,4 +1,4 @@
-#!/Users/sujin/Desktop/django-rest-framework/myvenv/bin/python3.12
+#!/Users/sujin/Desktop/django-rest-framework/chapter2/myvenv/bin/python3.12
 # When the django-admin.py deprecation ends, remove this script.
 import warnings
 

@@ -1,4 +1,4 @@
-#!/Users/sujin/Desktop/django-rest-framework/myvenv/bin/python3.12
+#!/Users/sujin/Desktop/django-rest-framework/chapter2/myvenv/bin/python3.12
 # -*- coding: utf-8 -*-
 import re
 import sys
